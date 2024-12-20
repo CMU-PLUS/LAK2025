@@ -25,7 +25,38 @@ RQ1: What differences exist in tutor learning, as evidenced by posttest performa
 RQ2: Under which contexts, do MCQs, open-response questions, or a combination of both yield the highest accuracy and efficiency, thereby optimizing the impact of the lesson? <br/> 
 RQ3: How effective is generative AI, specifically the large language model like GPT-4o, in assessing posttest performance during tutor training?  <br/>
 
-To access the lesson log data files, go to DataShop: [link](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=6250)
+# Accessing Lesson Log Data from DataShop  
+
+This project uses the dataset stored in **DataShop**. You can either click on the link below to access the data or search for it based on the provided details.  
+
+### Dataset Information  
+- **Project Name**: PLUS (public)  
+- **Dataset Name**: All_Data_Advocacy_Lessons_LAK25  
+- **Dataset ID**: 6250  
+- **DataShop Link**: [Access Dataset on DataShop](<Insert Link Here>)  
+
+---
+## Accessing Lesson Log Data from DataShop  
+
+This project uses the dataset stored in DataShop. The details for accessing the dataset are below. You can either click on the link to access the data or search for it based on the information provided.  
+
+- **Project Name**: PLUS (public)  
+- **Dataset Name**: All_Data_Advocacy_Lessons_LAK25  
+- **DataShop Link**: [Link](https://pslcdatashop.web.cmu.edu)  
+- **Dataset ID**: 6250  
+
+### Steps to Access the Dataset  
+
+1. To access any dataset, you must have a registered account with DataShop.  
+2. Once logged in, navigate to the DataShop home page and use the search bar to find the dataset by its name:  
+   - **Dataset Name**: All_Data_Advocacy_Lessons_LAK25  
+   - **Project Name**: PLUS (public)  
+   Alternatively, use the provided DataShop link directly (see above).  
+3. From the **Dataset Info** tab, navigate to the **Files** tab and click on the file name:  
+   - `All_Data_Advocacy_Lessons_LAK25 - All Data.csv (13 MB)`  
+   to download the dataset.  
+
+---
 
 Below is a brief explanation of the provided data fields.
 
