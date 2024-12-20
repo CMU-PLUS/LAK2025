@@ -25,16 +25,6 @@ RQ1: What differences exist in tutor learning, as evidenced by posttest performa
 RQ2: Under which contexts, do MCQs, open-response questions, or a combination of both yield the highest accuracy and efficiency, thereby optimizing the impact of the lesson? <br/> 
 RQ3: How effective is generative AI, specifically the large language model like GPT-4o, in assessing posttest performance during tutor training?  <br/>
 
-# Accessing Lesson Log Data from DataShop  
-
-This project uses the dataset stored in **DataShop**. You can either click on the link below to access the data or search for it based on the provided details.  
-
-### Dataset Information  
-- **Project Name**: PLUS (public)  
-- **Dataset Name**: All_Data_Advocacy_Lessons_LAK25  
-- **Dataset ID**: 6250  
-- **DataShop Link**: [Access Dataset on DataShop](<Insert Link Here>)  
-
 ---
 ## Accessing Lesson Log Data from DataShop  
 
@@ -55,7 +45,6 @@ This project uses the dataset stored in DataShop. The details for accessing the 
 3. From the **Dataset Info** tab, navigate to the **Files** tab and click on the file name:  
    - `All_Data_Advocacy_Lessons_LAK25 - All Data.csv (13 MB)`  
    to download the dataset.  
-
 ---
 
 Below is a brief explanation of the provided data fields.
