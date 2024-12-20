@@ -32,7 +32,7 @@ This project uses the dataset stored in DataShop. The details for accessing the 
 
 - **Project Name**: PLUS (public)  
 - **Dataset Name**: All_Data_Advocacy_Lessons_LAK25  
-- **DataShop Link**: [Link]([https://pslcdatashop.web.cmu.edu](https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=6250))  
+- **DataShop Link**: [Link]([https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=6250])  
 - **Dataset ID**: 6250  
 
 ### Steps to Access the Dataset  
